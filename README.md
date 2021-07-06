@@ -21,4 +21,4 @@ Beach Sunrise Photo: [1834896] (https://pixabay.com/users/1834896-1834896/)
 Chameleon Photo: [Bergadder](https://pixabay.com/users/bergadder-20679/).
 Lightning Photo: [Ronomore](https://pixabay.com/users/ronomore-866556/).
 Eagle Photo: [Kathy_Büscher](https://pixabay.com/users/kathy_b%C3%BCscher-5562794/).
-.
+
