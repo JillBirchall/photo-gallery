@@ -75,27 +75,3 @@ h1 {
     text-shadow: 0 0 10px white;
   }
 }
-
-/* @media (min-width: 420px) {
-  .photo-grid {
-    grid-template-columns: repeat(2, 200px);
-  }
-}
-
-@media (min-width: 640px) {
-  .photo-grid {
-    grid-template-columns: repeat(3, 200px);
-  }
-}
-
-@media (min-width: 860px) {
-  .photo-grid {
-    grid-template-columns: repeat(4, 200px);
-  }
-}
-
-@media (min-width: 1080px) {
-  .photo-grid {
-    grid-template-columns: repeat(5, 200px);
-  }
-} */
